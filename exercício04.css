@@ -1,0 +1,21 @@
+#cartao{
+    width: 300px;
+    margin: 20px auto;
+    padding: 25px;
+    border: 2px solid rgb(142, 77, 88);
+    box-shadow: 5px 5px 20px rgb(177, 119, 119);
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    border-radius: 50%
+}
+
+h1 {
+    color: rgb(154, 63, 63);
+}
+
+h2 {
+    color: rgb(154, 63, 63);
+}

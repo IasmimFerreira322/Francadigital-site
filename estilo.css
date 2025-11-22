@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(254, 252, 231);
+    font-family: "Pacifico", cursive;
+     background-image: url("https://1.bp.blogspot.com/-ZNi9DAeAxdo/V3ZwhHrJVGI/AAAAAAABYtQ/vAq_GmDv-ogIj6jInq4dxk8k1KkeC0zoQCLcB/s1600/748.gif");
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+
+
+}
+
+     
+p {
+
+
+    color: rgb(245, 186, 193);
+    font-size: 50px;
+
+
+}
+    #bolo_pequeno{
+        width: 200px;
+        height: 200px;
+         border-radius: 10%
+    }
+
+    #bolo_mymelody{
+        width: 200px;
+        height: 200px;
+        border-radius: 10%
+    }
+        
+
+    h1 {
+        color: rgb(253, 216, 223);
+    }
+
+    .caixa {
+        background: rgb(252, 249, 249);
+        width: 300px;
+        border: 10px solid white;
+    }
+
+    .sem{
+        padding: 0;
+    }
+
+    .com_padding {
+        padding: 15px
+    }
+
+    .com_margin {
+        margin: 60px
+    }
